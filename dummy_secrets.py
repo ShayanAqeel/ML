@@ -4,7 +4,7 @@ Adobe Adobe Service Token
 Adobe Adobe Short-Lived Access Token abcdefghijklmnopqrstuvwxyz0123456789
 Adobe Adobe JSON Web Token abcdefghijklmnopqrstuvwxyz0123456789
 Alibaba Cloud Alibaba Cloud Access Key ID and Access Key Secret pair accesskeyid123:accesskeysecret456
-Amazon Web Services (AWS) Amazon AWS Access Key ID and Secret Access Key pair accesskeyid123:accesskeysecret456
+Amazon Web Services (AWS) Amazon AWS Access Key ID and Secret Access Key pair :accesskeysecret456
 Atlassian Atlassian API Token abcdefghijklmnopqrstuvwxyz0123456789
 Atlassian Atlassian JSON Web Token abcdefghijklmnopqrstuvwxyz0123456789
 Azure Azure Active Directory Application Secret abcdefghijklmnopqrstuvwxyz0123456789

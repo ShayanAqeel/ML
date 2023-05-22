@@ -16,6 +16,7 @@ from configurations import Configuration
 from configurations import values
 import dj_database_url
 
+API_SECRET = "Hellow World"
 
 
 class Dev(Configuration):
